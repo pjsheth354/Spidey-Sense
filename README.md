@@ -1,4 +1,2 @@
-# Spidey-Sense
-Module used : Arduino UNO R3 Atmega 328P, Ultrasonic Sensor and Battery.
-
-Arduino Interface for Coding. 
+# Detection Helmet for Blind People
+This project focuses on building an assistive device for visually impaired individuals using an Arduino, ultrasonic sensors, a buzzer, and vibration motors. The system detects obstacles in real time and alerts the user through directional vibration feedback. When an obstacle is detected, the device vibrates on the corresponding side, helping the user understand where the obstruction is located. This enhances mobility and safety by reducing the risk of accidental collisions.
